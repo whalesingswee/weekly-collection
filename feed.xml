@@ -1,21 +1,589 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-<generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator>
-<link href="/feed.xml" rel="self" type="application/atom+xml" />
-<link href="/" rel="alternate" type="text/html" />
-<updated>2016-03-30T01:00:46+08:00</updated>
-<id>/</id>
-<title>Weekly Collection @ F2ETW</title>
-<subtitle>weekly collection of popular post in Facebook community @ F2ETW</subtitle>
-<entry>
-<title>Colection #000</title>
-<link href="/collection/000/" rel="alternate" type="text/html" title="Colection #000" />
-<published>2016-03-13T00:00:00+08:00</published>
-<updated>2016-03-13T00:00:00+08:00</updated>
-<id>/collection/000</id>
-<content type="html" xml:base="/collection/000/">&lt;p&gt;{% include card.html items=site.data.c000 %}&lt;/p&gt;
-</content>
-<category term="weekly-popular" />
-<summary>                                              完全學習Bootstrap 4 - Grid – INDER                    Kim Wong 以 Bootstrap 為例，於文中詳細地介紹常見 grid system 的排版方式；以及核心的 mixin &amp;amp; placeholder 開發原理                    2016-03-17        permalink                  Kim Wong                                                                            Useful Pens for Everyday Front End Development - a Collection by Sarah Drasner on CodePen                    保哥分享了外國開發者 Sarah Drasner 所彙整的 codepen collection，其中收藏了各式的前端應用技巧。                    2016-03-15        permalink                  黃保翕                                                                            [前端連載] 前端工程師該懂的基本東西——網路架構篇                    邱弘毅以淺顯易懂的敘述介紹網路架構的基本觀念，希望藉以分享給對前端有興趣的朋友們。                    2016-03-18        permalink                  邱弘毅                                                                            完全學習Bootstrap 4 – Media object – INDER                    Kim Wong 在 Bootstrap 系列文的第二篇以 media-object 為主題，介紹了這個排版中非常泛用的元素各種寫法以及調整方式。                    2016-03-19        permalink                  Kim Wong                                                                            網頁設計好朋友：Google 新工具 Resizer 讓網頁跑版這件事不再發生 | TechOrange                    Bram Yeh 分享了這個 Google 前不久釋出的 RWD 預覽頁面 ─ Resizer                    2016-03-15        permalink                  Bram Yeh                                                                    Holy Grail Layout — Solved by Flexbox — Cleaner, hack-free CSS                    由 Clement Tang 分享的這個 Flexbox 經典參考網站，概括了以 flexbox 方式解決六種傳統排版。對排版技術過渡中的開發者，為一非常有益的學習資源。                    2016-03-18        permalink                  Clement Tang                                                                            JulieAlert                    林立秦分享了他臨摩 SweetAlert 效果的 dialog plugin: JulieAlert                    2016-03-18        permalink                  林立秦                                                                            Flexbox Froggy                    鄒適齊重新分享了這個以小青蛙為主題的 flexbox 解題型學習網站                    2016-03-15        permalink                  鄒適齊                                                                            Driving Technical Change Why People on Your Team Don’t Act on Good Ideas, and How to Convince...                    MaoYang Chien 分享一本介紹開發團隊中技術協調的國外書籍                    2016-03-13        permalink                  MaoYang Chien                                                                                        關於 Adblock 隱藏非預期元素、以及雷區的討論                    2016-03-13        permalink                  Veck Hsiao                                    </summary>
-</entry>
-</feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2016-03-30T11:21:51+08:00</updated><id>/</id><title>Weekly Collection @ F2ETW</title><subtitle>weekly collection of popular post in Facebook community @ F2ETW</subtitle><entry><title>Colection #000</title><link href="/collection/000/" rel="alternate" type="text/html" title="Colection #000" /><published>2016-03-13T00:00:00+08:00</published><updated>2016-03-13T00:00:00+08:00</updated><id>/collection/000</id><content type="html" xml:base="/collection/000/">&lt;div class=&quot;Card-box&quot;&gt;
+
+  &lt;article class=&quot;Card&quot;&gt;
+    
+
+    
+    &lt;a class=&quot;Card__cover-link&quot; href=&quot;http://inder.com.tw/learn-bootstrap-4-grid/&quot; style=&quot;background-image: url(&#39;http://inder.com.tw/wp-content/uploads/2016/03/002.jpg&#39;);&quot;&gt;
+      &lt;img class=&quot;Card__cover&quot; src=&quot;http://inder.com.tw/wp-content/uploads/2016/03/002.jpg&quot; alt=&quot;完全學習Bootstrap 4 - Grid – INDER&quot; /&gt;
+    &lt;/a&gt;
+    
+
+    &lt;div class=&quot;Card__info&quot;&gt;
+
+      &lt;h3 class=&quot;Card__title&quot;&gt;
+        &lt;a href=&quot;http://inder.com.tw/learn-bootstrap-4-grid/&quot;&gt;完全學習Bootstrap 4 - Grid – INDER&lt;/a&gt;
+      &lt;/h3&gt;
+
+      &lt;p class=&quot;Card__intro&quot;&gt;
+        Kim Wong 以 Bootstrap 為例，於文中詳細地介紹常見 grid system 的排版方式；以及核心的 mixin &amp;amp; placeholder 開發原理
+      &lt;/p&gt;
+
+      &lt;div class=&quot;Metainfo&quot;&gt;
+        &lt;a class=&quot;Metainfo__sharer&quot; href=&quot;https://fb.com/10152364923244567&quot;&gt;
+          Kim Wong
+          &lt;img src=&quot;https://graph.facebook.com/10152364923244567/picture?width=32&quot; alt=&quot;Kim Wong&quot; /&gt;
+        &lt;/a&gt;
+        &lt;time class=&quot;Metainfo__time&quot; datetime=&quot;2016-03-17T18:47:30+08:00&quot; title=&quot;2016-03-17T18:47:30+08:00&quot;&gt;2016-03-17&lt;/time&gt;
+        &lt;a class=&quot;Metainfo__permalink&quot; href=&quot;https://fb.com/521085554595481_962465493790816&quot;&gt;permalink&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+
+  &lt;article class=&quot;Card&quot;&gt;
+    
+
+    
+    &lt;a class=&quot;Card__cover-link&quot; href=&quot;http://codepen.io/collection/nMgKxJ/&quot; style=&quot;background-image: url(&#39;http://sarahdrasnerdesign.com/wp3/wp-content/uploads/2014/02/bio-pic.jpg&#39;);&quot;&gt;
+      &lt;img class=&quot;Card__cover&quot; src=&quot;http://sarahdrasnerdesign.com/wp3/wp-content/uploads/2014/02/bio-pic.jpg&quot; alt=&quot;Useful Pens for Everyday Front End Development - a Collection by Sarah Drasner on CodePen&quot; /&gt;
+    &lt;/a&gt;
+    
+
+    &lt;div class=&quot;Card__info&quot;&gt;
+
+      &lt;h3 class=&quot;Card__title&quot;&gt;
+        &lt;a href=&quot;http://codepen.io/collection/nMgKxJ/&quot;&gt;Useful Pens for Everyday Front End Development - a Collection by Sarah Drasner on CodePen&lt;/a&gt;
+      &lt;/h3&gt;
+
+      &lt;p class=&quot;Card__intro&quot;&gt;
+        保哥分享了外國開發者 Sarah Drasner 所彙整的 codepen collection，其中收藏了各式的前端應用技巧。
+      &lt;/p&gt;
+
+      &lt;div class=&quot;Metainfo&quot;&gt;
+        &lt;a class=&quot;Metainfo__sharer&quot; href=&quot;https://fb.com/10206611907686693&quot;&gt;
+          黃保翕
+          &lt;img src=&quot;https://graph.facebook.com/10206611907686693/picture?width=32&quot; alt=&quot;黃保翕&quot; /&gt;
+        &lt;/a&gt;
+        &lt;time class=&quot;Metainfo__time&quot; datetime=&quot;2016-03-15T19:55:01+08:00&quot; title=&quot;2016-03-15T19:55:01+08:00&quot;&gt;2016-03-15&lt;/time&gt;
+        &lt;a class=&quot;Metainfo__permalink&quot; href=&quot;https://fb.com/521085554595481_961252387245460&quot;&gt;permalink&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+
+  &lt;article class=&quot;Card&quot;&gt;
+    
+
+    
+    &lt;a class=&quot;Card__cover-link&quot; href=&quot;https://noootown.wordpress.com/2016/03/18/fontend-engineer-should-know-network-structure/#more-1419&quot; style=&quot;background-image: url(&#39;https://noootown.files.wordpress.com/2016/03/pic1.png&#39;);&quot;&gt;
+      &lt;img class=&quot;Card__cover&quot; src=&quot;https://noootown.files.wordpress.com/2016/03/pic1.png&quot; alt=&quot;[前端連載] 前端工程師該懂的基本東西——網路架構篇&quot; /&gt;
+    &lt;/a&gt;
+    
+
+    &lt;div class=&quot;Card__info&quot;&gt;
+
+      &lt;h3 class=&quot;Card__title&quot;&gt;
+        &lt;a href=&quot;https://noootown.wordpress.com/2016/03/18/fontend-engineer-should-know-network-structure/#more-1419&quot;&gt;[前端連載] 前端工程師該懂的基本東西——網路架構篇&lt;/a&gt;
+      &lt;/h3&gt;
+
+      &lt;p class=&quot;Card__intro&quot;&gt;
+        邱弘毅以淺顯易懂的敘述介紹網路架構的基本觀念，希望藉以分享給對前端有興趣的朋友們。
+      &lt;/p&gt;
+
+      &lt;div class=&quot;Metainfo&quot;&gt;
+        &lt;a class=&quot;Metainfo__sharer&quot; href=&quot;https://fb.com/824068551038406&quot;&gt;
+          邱弘毅
+          &lt;img src=&quot;https://graph.facebook.com/824068551038406/picture?width=32&quot; alt=&quot;邱弘毅&quot; /&gt;
+        &lt;/a&gt;
+        &lt;time class=&quot;Metainfo__time&quot; datetime=&quot;2016-03-18T18:28:54+08:00&quot; title=&quot;2016-03-18T18:28:54+08:00&quot;&gt;2016-03-18&lt;/time&gt;
+        &lt;a class=&quot;Metainfo__permalink&quot; href=&quot;https://fb.com/521085554595481_963077823729583&quot;&gt;permalink&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+
+  &lt;article class=&quot;Card&quot;&gt;
+    
+
+    
+    &lt;a class=&quot;Card__cover-link&quot; href=&quot;http://inder.com.tw/learn-bootstrap-4-media-object/&quot; style=&quot;background-image: url(&#39;http://inder.com.tw/wp-content/uploads/2016/03/003-1.jpg&#39;);&quot;&gt;
+      &lt;img class=&quot;Card__cover&quot; src=&quot;http://inder.com.tw/wp-content/uploads/2016/03/003-1.jpg&quot; alt=&quot;完全學習Bootstrap 4 – Media object – INDER&quot; /&gt;
+    &lt;/a&gt;
+    
+
+    &lt;div class=&quot;Card__info&quot;&gt;
+
+      &lt;h3 class=&quot;Card__title&quot;&gt;
+        &lt;a href=&quot;http://inder.com.tw/learn-bootstrap-4-media-object/&quot;&gt;完全學習Bootstrap 4 – Media object – INDER&lt;/a&gt;
+      &lt;/h3&gt;
+
+      &lt;p class=&quot;Card__intro&quot;&gt;
+        Kim Wong 在 Bootstrap 系列文的第二篇以 media-object 為主題，介紹了這個排版中非常泛用的元素各種寫法以及調整方式。
+      &lt;/p&gt;
+
+      &lt;div class=&quot;Metainfo&quot;&gt;
+        &lt;a class=&quot;Metainfo__sharer&quot; href=&quot;https://fb.com/10152364923244567&quot;&gt;
+          Kim Wong
+          &lt;img src=&quot;https://graph.facebook.com/10152364923244567/picture?width=32&quot; alt=&quot;Kim Wong&quot; /&gt;
+        &lt;/a&gt;
+        &lt;time class=&quot;Metainfo__time&quot; datetime=&quot;2016-03-19T23:11:30+08:00&quot; title=&quot;2016-03-19T23:11:30+08:00&quot;&gt;2016-03-19&lt;/time&gt;
+        &lt;a class=&quot;Metainfo__permalink&quot; href=&quot;https://fb.com/521085554595481_963847846985914&quot;&gt;permalink&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+
+  &lt;article class=&quot;Card&quot;&gt;
+    
+
+    
+    &lt;a class=&quot;Card__cover-link&quot; href=&quot;http://buzzorange.com/techorange/2016/03/15/google-resizer/&quot; style=&quot;background-image: url(&#39;http://buzzorange.com/techorange/wp-content/uploads/2016/03/come.png&#39;);&quot;&gt;
+      &lt;img class=&quot;Card__cover&quot; src=&quot;http://buzzorange.com/techorange/wp-content/uploads/2016/03/come.png&quot; alt=&quot;網頁設計好朋友：Google 新工具 Resizer 讓網頁跑版這件事不再發生 | TechOrange&quot; /&gt;
+    &lt;/a&gt;
+    
+
+    &lt;div class=&quot;Card__info&quot;&gt;
+
+      &lt;h3 class=&quot;Card__title&quot;&gt;
+        &lt;a href=&quot;http://buzzorange.com/techorange/2016/03/15/google-resizer/&quot;&gt;網頁設計好朋友：Google 新工具 Resizer 讓網頁跑版這件事不再發生 | TechOrange&lt;/a&gt;
+      &lt;/h3&gt;
+
+      &lt;p class=&quot;Card__intro&quot;&gt;
+        Bram Yeh 分享了這個 Google 前不久釋出的 RWD 預覽頁面 ─ Resizer
+      &lt;/p&gt;
+
+      &lt;div class=&quot;Metainfo&quot;&gt;
+        &lt;a class=&quot;Metainfo__sharer&quot; href=&quot;https://fb.com/988873794457369&quot;&gt;
+          Bram Yeh
+          &lt;img src=&quot;https://graph.facebook.com/988873794457369/picture?width=32&quot; alt=&quot;Bram Yeh&quot; /&gt;
+        &lt;/a&gt;
+        &lt;time class=&quot;Metainfo__time&quot; datetime=&quot;2016-03-15T22:11:21+08:00&quot; title=&quot;2016-03-15T22:11:21+08:00&quot;&gt;2016-03-15&lt;/time&gt;
+        &lt;a class=&quot;Metainfo__permalink&quot; href=&quot;https://fb.com/521085554595481_961308417239857&quot;&gt;permalink&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+
+  &lt;article class=&quot;Card&quot;&gt;
+    
+
+    
+    &lt;a class=&quot;Card__cover-link&quot; href=&quot;https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/&quot; style=&quot;background-image: url(&#39;&#39;);&quot;&gt;
+      &lt;img class=&quot;Card__cover&quot; src=&quot;&quot; alt=&quot;Holy Grail Layout — Solved by Flexbox — Cleaner, hack-free CSS&quot; /&gt;
+    &lt;/a&gt;
+    
+
+    &lt;div class=&quot;Card__info&quot;&gt;
+
+      &lt;h3 class=&quot;Card__title&quot;&gt;
+        &lt;a href=&quot;https://philipwalton.github.io/solved-by-flexbox/demos/holy-grail/&quot;&gt;Holy Grail Layout — Solved by Flexbox — Cleaner, hack-free CSS&lt;/a&gt;
+      &lt;/h3&gt;
+
+      &lt;p class=&quot;Card__intro&quot;&gt;
+        由 Clement Tang 分享的這個 Flexbox 經典參考網站，概括了以 flexbox 方式解決六種傳統排版。對排版技術過渡中的開發者，為一非常有益的學習資源。
+      &lt;/p&gt;
+
+      &lt;div class=&quot;Metainfo&quot;&gt;
+        &lt;a class=&quot;Metainfo__sharer&quot; href=&quot;https://fb.com/10205598652859379&quot;&gt;
+          Clement Tang
+          &lt;img src=&quot;https://graph.facebook.com/10205598652859379/picture?width=32&quot; alt=&quot;Clement Tang&quot; /&gt;
+        &lt;/a&gt;
+        &lt;time class=&quot;Metainfo__time&quot; datetime=&quot;2016-03-18T00:01:27+08:00&quot; title=&quot;2016-03-18T00:01:27+08:00&quot;&gt;2016-03-18&lt;/time&gt;
+        &lt;a class=&quot;Metainfo__permalink&quot; href=&quot;https://fb.com/521085554595481_962606900443342&quot;&gt;permalink&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+
+  &lt;article class=&quot;Card&quot;&gt;
+    
+
+    
+    &lt;a class=&quot;Card__cover-link&quot; href=&quot;http://lichin.me/Juliealert/&quot; style=&quot;background-image: url(&#39;http://lichin.me/Juliealert/image.png&#39;);&quot;&gt;
+      &lt;img class=&quot;Card__cover&quot; src=&quot;http://lichin.me/Juliealert/image.png&quot; alt=&quot;JulieAlert&quot; /&gt;
+    &lt;/a&gt;
+    
+
+    &lt;div class=&quot;Card__info&quot;&gt;
+
+      &lt;h3 class=&quot;Card__title&quot;&gt;
+        &lt;a href=&quot;http://lichin.me/Juliealert/&quot;&gt;JulieAlert&lt;/a&gt;
+      &lt;/h3&gt;
+
+      &lt;p class=&quot;Card__intro&quot;&gt;
+        林立秦分享了他臨摩 SweetAlert 效果的 dialog plugin: JulieAlert
+      &lt;/p&gt;
+
+      &lt;div class=&quot;Metainfo&quot;&gt;
+        &lt;a class=&quot;Metainfo__sharer&quot; href=&quot;https://fb.com/952773934745171&quot;&gt;
+          林立秦
+          &lt;img src=&quot;https://graph.facebook.com/952773934745171/picture?width=32&quot; alt=&quot;林立秦&quot; /&gt;
+        &lt;/a&gt;
+        &lt;time class=&quot;Metainfo__time&quot; datetime=&quot;2016-03-18T10:08:28+08:00&quot; title=&quot;2016-03-18T10:08:28+08:00&quot;&gt;2016-03-18&lt;/time&gt;
+        &lt;a class=&quot;Metainfo__permalink&quot; href=&quot;https://fb.com/521085554595481_962887027081996&quot;&gt;permalink&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+
+  &lt;article class=&quot;Card&quot;&gt;
+    
+
+    
+    &lt;a class=&quot;Card__cover-link&quot; href=&quot;http://flexboxfroggy.com/&quot; style=&quot;background-image: url(&#39;http://flexboxfroggy.com/images/screenshot.png&#39;);&quot;&gt;
+      &lt;img class=&quot;Card__cover&quot; src=&quot;http://flexboxfroggy.com/images/screenshot.png&quot; alt=&quot;Flexbox Froggy&quot; /&gt;
+    &lt;/a&gt;
+    
+
+    &lt;div class=&quot;Card__info&quot;&gt;
+
+      &lt;h3 class=&quot;Card__title&quot;&gt;
+        &lt;a href=&quot;http://flexboxfroggy.com/&quot;&gt;Flexbox Froggy&lt;/a&gt;
+      &lt;/h3&gt;
+
+      &lt;p class=&quot;Card__intro&quot;&gt;
+        鄒適齊重新分享了這個以小青蛙為主題的 flexbox 解題型學習網站
+      &lt;/p&gt;
+
+      &lt;div class=&quot;Metainfo&quot;&gt;
+        &lt;a class=&quot;Metainfo__sharer&quot; href=&quot;https://fb.com/1137308042954007&quot;&gt;
+          鄒適齊
+          &lt;img src=&quot;https://graph.facebook.com/1137308042954007/picture?width=32&quot; alt=&quot;鄒適齊&quot; /&gt;
+        &lt;/a&gt;
+        &lt;time class=&quot;Metainfo__time&quot; datetime=&quot;2016-03-15T09:54:54+08:00&quot; title=&quot;2016-03-15T09:54:54+08:00&quot;&gt;2016-03-15&lt;/time&gt;
+        &lt;a class=&quot;Metainfo__permalink&quot; href=&quot;https://fb.com/521085554595481_961005800603452&quot;&gt;permalink&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+
+  &lt;article class=&quot;Card&quot;&gt;
+    
+
+    
+    &lt;a class=&quot;Card__cover-link&quot; href=&quot;https://softnshare.wordpress.com/portfolio/driving-technical-change-why-people-on-your-team-dont-act-on-good-ideas-and-how-to-convince-them-they-should/&quot; style=&quot;background-image: url(&#39;https://softnshare.files.wordpress.com/2016/03/trevan.jpg&#39;);&quot;&gt;
+      &lt;img class=&quot;Card__cover&quot; src=&quot;https://softnshare.files.wordpress.com/2016/03/trevan.jpg&quot; alt=&quot;Driving Technical Change Why People on Your Team Don’t Act on Good Ideas, and How to Convince...&quot; /&gt;
+    &lt;/a&gt;
+    
+
+    &lt;div class=&quot;Card__info&quot;&gt;
+
+      &lt;h3 class=&quot;Card__title&quot;&gt;
+        &lt;a href=&quot;https://softnshare.wordpress.com/portfolio/driving-technical-change-why-people-on-your-team-dont-act-on-good-ideas-and-how-to-convince-them-they-should/&quot;&gt;Driving Technical Change Why People on Your Team Don’t Act on Good Ideas, and How to Convince...&lt;/a&gt;
+      &lt;/h3&gt;
+
+      &lt;p class=&quot;Card__intro&quot;&gt;
+        MaoYang Chien 分享一本介紹開發團隊中技術協調的國外書籍
+      &lt;/p&gt;
+
+      &lt;div class=&quot;Metainfo&quot;&gt;
+        &lt;a class=&quot;Metainfo__sharer&quot; href=&quot;https://fb.com/10153285570810982&quot;&gt;
+          MaoYang Chien
+          &lt;img src=&quot;https://graph.facebook.com/10153285570810982/picture?width=32&quot; alt=&quot;MaoYang Chien&quot; /&gt;
+        &lt;/a&gt;
+        &lt;time class=&quot;Metainfo__time&quot; datetime=&quot;2016-03-13T11:38:44+08:00&quot; title=&quot;2016-03-13T11:38:44+08:00&quot;&gt;2016-03-13&lt;/time&gt;
+        &lt;a class=&quot;Metainfo__permalink&quot; href=&quot;https://fb.com/521085554595481_959933710710661&quot;&gt;permalink&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+
+  &lt;article class=&quot;Card&quot;&gt;
+    
+
+    
+    &lt;a class=&quot;Card__cover-link&quot; href=&quot;https://fb.com/521085554595481_960187820685250&quot; style=&quot;background-image: url(&#39;&#39;);&quot;&gt;
+      &lt;img class=&quot;Card__cover&quot; src=&quot;&quot; alt=&quot;&quot; /&gt;
+    &lt;/a&gt;
+    
+
+    &lt;div class=&quot;Card__info&quot;&gt;
+
+      &lt;h3 class=&quot;Card__title&quot;&gt;
+        &lt;a href=&quot;https://fb.com/521085554595481_960187820685250&quot;&gt;&lt;/a&gt;
+      &lt;/h3&gt;
+
+      &lt;p class=&quot;Card__intro&quot;&gt;
+        關於 Adblock 隱藏非預期元素、以及雷區的討論
+      &lt;/p&gt;
+
+      &lt;div class=&quot;Metainfo&quot;&gt;
+        &lt;a class=&quot;Metainfo__sharer&quot; href=&quot;https://fb.com/1098620593488508&quot;&gt;
+          Veck Hsiao
+          &lt;img src=&quot;https://graph.facebook.com/1098620593488508/picture?width=32&quot; alt=&quot;Veck Hsiao&quot; /&gt;
+        &lt;/a&gt;
+        &lt;time class=&quot;Metainfo__time&quot; datetime=&quot;2016-03-13T23:50:14+08:00&quot; title=&quot;2016-03-13T23:50:14+08:00&quot;&gt;2016-03-13&lt;/time&gt;
+        &lt;a class=&quot;Metainfo__permalink&quot; href=&quot;https://fb.com/521085554595481_960187820685250&quot;&gt;permalink&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/article&gt;
+
+  &lt;article class=&quot;Card&quot;&gt;&lt;/article&gt;
+  &lt;article class=&quot;Card&quot;&gt;&lt;/article&gt;
+  &lt;article class=&quot;Card&quot;&gt;&lt;/article&gt;
+&lt;/div&gt;</content><category term="weekly-popular" /><summary>完全學習Bootstrap 4 - Grid – INDER
+      
+
+      
+        Kim Wong 以 Bootstrap 為例，於文中詳細地介紹常見 grid system 的排版方式；以及核心的 mixin &amp;amp; placeholder 開發原理
+      
+
+      
+        
+          Kim Wong
+          
+        
+        2016-03-17
+        permalink
+      
+    
+  
+
+  
+    
+
+    
+    
+      
+    
+    
+
+    
+
+      
+        Useful Pens for Everyday Front End Development - a Collection by Sarah Drasner on CodePen
+      
+
+      
+        保哥分享了外國開發者 Sarah Drasner 所彙整的 codepen collection，其中收藏了各式的前端應用技巧。
+      
+
+      
+        
+          黃保翕
+          
+        
+        2016-03-15
+        permalink
+      
+    
+  
+
+  
+    
+
+    
+    
+      
+    
+    
+
+    
+
+      
+        [前端連載] 前端工程師該懂的基本東西——網路架構篇
+      
+
+      
+        邱弘毅以淺顯易懂的敘述介紹網路架構的基本觀念，希望藉以分享給對前端有興趣的朋友們。
+      
+
+      
+        
+          邱弘毅
+          
+        
+        2016-03-18
+        permalink
+      
+    
+  
+
+  
+    
+
+    
+    
+      
+    
+    
+
+    
+
+      
+        完全學習Bootstrap 4 – Media object – INDER
+      
+
+      
+        Kim Wong 在 Bootstrap 系列文的第二篇以 media-object 為主題，介紹了這個排版中非常泛用的元素各種寫法以及調整方式。
+      
+
+      
+        
+          Kim Wong
+          
+        
+        2016-03-19
+        permalink
+      
+    
+  
+
+  
+    
+
+    
+    
+      
+    
+    
+
+    
+
+      
+        網頁設計好朋友：Google 新工具 Resizer 讓網頁跑版這件事不再發生 | TechOrange
+      
+
+      
+        Bram Yeh 分享了這個 Google 前不久釋出的 RWD 預覽頁面 ─ Resizer
+      
+
+      
+        
+          Bram Yeh
+          
+        
+        2016-03-15
+        permalink
+      
+    
+  
+
+  
+    
+
+    
+    
+      
+    
+    
+
+    
+
+      
+        Holy Grail Layout — Solved by Flexbox — Cleaner, hack-free CSS
+      
+
+      
+        由 Clement Tang 分享的這個 Flexbox 經典參考網站，概括了以 flexbox 方式解決六種傳統排版。對排版技術過渡中的開發者，為一非常有益的學習資源。
+      
+
+      
+        
+          Clement Tang
+          
+        
+        2016-03-18
+        permalink
+      
+    
+  
+
+  
+    
+
+    
+    
+      
+    
+    
+
+    
+
+      
+        JulieAlert
+      
+
+      
+        林立秦分享了他臨摩 SweetAlert 效果的 dialog plugin: JulieAlert
+      
+
+      
+        
+          林立秦
+          
+        
+        2016-03-18
+        permalink
+      
+    
+  
+
+  
+    
+
+    
+    
+      
+    
+    
+
+    
+
+      
+        Flexbox Froggy
+      
+
+      
+        鄒適齊重新分享了這個以小青蛙為主題的 flexbox 解題型學習網站
+      
+
+      
+        
+          鄒適齊
+          
+        
+        2016-03-15
+        permalink
+      
+    
+  
+
+  
+    
+
+    
+    
+      
+    
+    
+
+    
+
+      
+        Driving Technical Change Why People on Your Team Don’t Act on Good Ideas, and How to Convince...
+      
+
+      
+        MaoYang Chien 分享一本介紹開發團隊中技術協調的國外書籍
+      
+
+      
+        
+          MaoYang Chien
+          
+        
+        2016-03-13
+        permalink
+      
+    
+  
+
+  
+    
+
+    
+    
+      
+    
+    
+
+    
+
+      
+        
+      
+
+      
+        關於 Adblock 隱藏非預期元素、以及雷區的討論
+      
+
+      
+        
+          Veck Hsiao
+          
+        
+        2016-03-13
+        permalink</summary></entry></feed>
